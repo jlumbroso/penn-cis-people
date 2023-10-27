@@ -1,0 +1,160 @@
+[
+    {
+        "name": "Jackie Caliman",
+        "title": "Director of Administrative Operations",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/09/Caliman.jpg",
+        "contact": {
+            "Office": "306 Levine",
+            "Phone": "215-898-5326",
+            "Fax": "215-898-0587",
+            "Email": "jackie@cis.upenn.edu"
+        }
+    },
+    {
+        "name": "Britton Carnevali",
+        "title": "Program Manager, CIS PhD",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/09/Carnevali.jpg",
+        "contact": {
+            "Office": "310 Levine",
+            "Phone": "215-898-5515",
+            "Fax": "215-898-0587",
+            "Email": "brittonc@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Lee Dukes",
+        "title": "Snr Director of Academic Affairs",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/08/unnamed.jpg",
+        "contact": {
+            "Office": "310 Levine",
+            "Phone": "215-573-0878",
+            "Fax": "215-898-0587",
+            "Email": "ldukes@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Laura Fox",
+        "title": "Associate Director",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/09/Fox.jpg",
+        "contact": {
+            "Office": "309 Levine",
+            "Phone": "215-898-3191",
+            "Fax": "215-898-0587",
+            "Email": "cis-undergrad-advising@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Redian Furxhiu",
+        "title": "Program Manager, CIS/MSE, MCIT, & CGGT",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/08/Webp.net-resizeimage-31.jpg",
+        "contact": {
+            "Office": "308 Levine",
+            "Phone": "215-898-1668",
+            "Fax": "215-898-0587",
+            "Email": "redian@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Cheryl Hickey",
+        "title": "Administrative/Event Coordinator",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/09/Hickey.jpg",
+        "contact": {
+            "Office": "502 Levine",
+            "Phone": "215-898-3538",
+            "Fax": "215-573-8190",
+            "Email": "cherylh@cis.upenn.edu"
+        }
+    },
+    {
+        "name": "Lily Hoot",
+        "title": "Program Manager and Social Media Outreach for the Warren Center",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/08/PennEngStaff_080823-245-min-scaled-e1692364332368.jpg",
+        "contact": {
+            "Office": "402B, 3401 Walnut",
+            "Phone": "215-573-0861",
+            "Fax": "215-573-5466",
+            "Email": "lhoot@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Staci Kaplan",
+        "title": "Program Manager, MSE Data Science Program",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2020/01/Staci_headshot.jpeg",
+        "contact": {
+            "Office": "308 Levine",
+            "Phone": "215-573-2431",
+            "Fax": "215-898-0587",
+            "Email": "stacilk@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Jessica Kimpel",
+        "title": "Academic Advisor",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/08/J.-Kimpel-Headshot-2023.jpeg",
+        "contact": {
+            "Office": "308 Levine",
+            "Email": "jkimpel@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Rob Lee",
+        "title": "Academic Advisor",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/08/Lee_Robert-1.jpeg",
+        "contact": {
+            "Office": "309 Levine",
+            "Email": "rkplee@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Ally Moraschi",
+        "title": "Media and Academic Activities Coordinator",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/08/profilepic-1-1.jpg",
+        "contact": {
+            "Office": "311 Levine",
+            "Phone": "215-573-2815",
+            "Email": "moraschi@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "(Liz) Wai Ping Ng",
+        "title": "Associate Director, PRECISE Center",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/09/Ng.jpg",
+        "contact": {
+            "Office": "313 Levine",
+            "Phone": "215-898-8543",
+            "Fax": "215-898-0587",
+            "Email": "wng@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Charity Payne",
+        "title": "Director, GRASP Lab & PERCH; Graduate Program Coordinator for Robotics MSE Program",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/09/Payne.jpg",
+        "contact": {
+            "Office": "Pennovation Works",
+            "Phone": "215-898-0374",
+            "Fax": "215-898-0587",
+            "Email": "robo-coord@seas.upenn.edu"
+        }
+    },
+    {
+        "name": "Jennifer Sheffield",
+        "title": "Program Research Coordinator, Cognitive Computation Group",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/09/Sheffield.jpg",
+        "contact": {
+            "Office": "453C, 3401 Walnut",
+            "Phone": "215-746-5695",
+            "Email": "sheffiel@cis.upenn.edu"
+        }
+    },
+    {
+        "name": "Mari Thach",
+        "title": "Administrative Assistant",
+        "image_url": "https://www.cis.upenn.edu/wp-content/uploads/2019/08/IMG_5649-1.jpg",
+        "contact": {
+            "Office": "302 Levine",
+            "Phone": "215-898-8560",
+            "Email": "maritt@seas.upenn.edu"
+        }
+    }
+]
